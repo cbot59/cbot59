@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=cbot59&show_icons=true&locale=en" alt="cbot59" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com//?user=cbot59&" alt="cbot59" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=cbot59" alt="cbot59" /></p>
